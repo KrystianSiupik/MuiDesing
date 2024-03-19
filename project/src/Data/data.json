@@ -1,0 +1,22 @@
+
+[
+    {
+      "id": 1,
+      "title": "Sample Post 1",
+      "img": "https://unsplash.com/photos/a-computer-screen-with-a-remote-control-on-it-s5kTY-Ve1c0",
+      "postText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero."
+    },
+    {
+      "id": 2,
+      "title": "Sample Post 2",
+      "img": "path/to/image2.jpg",
+      "postText": "Curabitur et ligula. Ut molestie a, ultricies porta urna."
+    },
+    {
+      "id": 3,
+      "title": "Sample Post 3",
+      "img": "path/to/image3.jpg",
+      "postText": "Vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum."
+    }
+
+]
